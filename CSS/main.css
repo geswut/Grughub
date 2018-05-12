@@ -1,0 +1,43 @@
+nav {
+  background-color: red;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+div a {
+  display: inline-block;
+}
+
+nav div a {
+  text-decoration: none;
+  color: #fff;
+  Font-weight: bold;
+  font-size: 30px;
+}
+
+div {
+  padding: 25px;
+  margin: 0;
+}
+
+div .button, i {
+  float: right;
+}
+
+.button {
+  padding: 10px 20px;
+  margin: 0 40PX;
+  border: 2px solid #fff;
+  background-color: red;
+  color: #fff;
+  border-radius: 7px;
+}
+
+Div i {
+  margin-right: 0;
+}
+
+p {
+  font-size: 700px;
+}
